@@ -1,0 +1,200 @@
+{
+  "header": {
+    "name":           "Prénom Nom",
+    "title":          "Intitulé de poste",
+    "image":          "images/fond-principal.jpg", 
+    "introduction": [
+                      "Premier paragraphe",
+                      "Deuxième paragraphe"
+                    ]
+  },
+  "experiences": [
+    {
+      "startDate":    "Janvier 2025",
+      "endDate":      "Mars 2026",
+      "image":        "images/entreprise-1.png",
+      "company":      "Nom Entreprise",
+      "position":     "Intitulé du poste",
+      "objectives":   "Objectif",
+      "achievements": [
+                      "Réalisation 1",
+                      "Réalisation 2"
+      ],
+      "results":      "Résultat",
+      "environment":  "Environnements"  
+    },
+    {
+      "startDate":    "Janvier 2023",
+      "endDate":      "Décembre 2024",
+      "image":        "images/entreprise-1.png",
+      "company":      "Nom Entreprise",
+      "position":     "Intitulé du poste",
+      "objectives":   "Objectif",
+      "achievements": [
+                      "Réalisation 1",
+                      "Réalisation 2"
+      ],
+      "results":      "Résultat",
+      "environment":  "Environnements"  
+    }
+  ],
+  "education": [
+    {
+      "school":       "Nom de l'école",
+      "diploma":      [
+                      "Nom du diplôme",
+                      "Nom du diplôme"
+      ],
+      "year":         "2011-2015",
+      "description": [
+                      "Description de la formation 1",
+                      "Description de la formation 2",
+                      "Description de la formation 3"
+      ]
+    },
+    {
+      "school":       "Nom de l'école",
+      "diploma":      [
+                      "Nom du diplôme",
+                      "Nom du diplôme"
+      ],
+      "year":         "2011-2015",
+      "description": [
+                      "Description de la formation 1",
+                      "Description de la formation 2",
+                      "Description de la formation 3"
+      ]
+    }
+  ],
+  "projectManagementSkills": [
+    {
+      "category":     "Nom de la catégorie",
+      "icon":         "icons/skills.png",
+      "items": [
+                      "Compétence 1", 
+                      "Compétence 2"
+      ]
+    },
+    {
+      "category":     "Nom de la catégorie",
+      "icon":         "icons/skills.png",
+      "items": [
+                      "Compétence 1", 
+                      "Compétence 2"
+      ]
+    },
+    {
+      "category":     "Nom de la catégorie",
+      "icon":         "icons/skills.png",
+      "items": [
+                      "Compétence 1", 
+                      "Compétence 2"
+      ]
+    }
+  ],
+  "otherSkills": [
+    {
+      "category" :    "Nom de la catégorie",
+      "description" : "Description",
+      "certification": [ 
+          {
+          "image":       "images/skill.jpg",
+          "school":      "Nom de l'école",
+          "year":        "Année de la certification",
+          "description": [
+                          "Description 1",
+                          "Description 2"
+                         ]
+          }
+      ],
+      "link":         "https://link.com",
+      "linkLabel":    "Voir plus"
+    },
+    {
+      "category" :    "Nom de la catégorie",
+      "description" : "Description",
+      "certification": [ 
+          {
+          "image":       "images/skill.jpg",
+          "school":      "Nom de l'école",
+          "year":        "Année de la certification",
+          "description": [
+                          "Description 1",
+                          "Description 2"
+                         ]
+          }
+      ],
+      "link":         "https://link.com",
+      "linkLabel":    "Voir plus"
+    },
+    {
+      "category" :    "Nom de la catégorie",
+      "description" : "Description",
+      "certification": [ 
+          {
+          "image":       "images/skill.jpg",
+          "school":      "Nom de l'école",
+          "year":        "Année de la certification",
+          "description": [
+                          "Description 1",
+                          "Description 2"
+                         ]
+          }
+      ],
+      "link":         "https://link.com",
+      "linkLabel":    "Voir plus"
+    }
+  ],
+  "tools": [
+    {
+      "category":     "Nom de la catégorie",
+      "icon":        "images/tool-1.png",
+      "items": [
+                      "Outil 1", 
+                      "Outil 2"
+      ]
+    },
+    {
+      "category":     "Nom de la catégorie",
+      "icon":        "images/tool-1.png",
+      "items": [
+                      "Outil 1", 
+                      "Outil 2"
+      ]
+    },
+    {
+      "category":     "Nom de la catégorie",
+      "icon":        "images/tool-1.png",
+      "items": [
+                      "Outil 1", 
+                      "Outil 2"
+      ]
+    }
+  ],
+  "contact": [
+     {
+       "category":     "Email",
+       "icon":         "icons/email.png",
+       "items":        "test@email.com"
+     },
+     {
+       "category":     "Téléphone",
+       "icon":         "icons/phone.png",
+       "items":        "+33 0 00 00 00 00"
+     },
+     {
+       "category":     "LinkedIn",
+       "icon":         "icons/linkedin.png",
+       "items":        "https://linkedin.com/in/username"
+     },
+     {
+       "category":     "Localisation",
+       "icon":         "icons/place.png",
+       "items":        "Ville, Pays"
+     }
+  ],
+  "footer": {
+    "copyright":      "Nom pour le copyright",
+    "credits":        "Crédits complémentaires du footer"
+  }
+}
