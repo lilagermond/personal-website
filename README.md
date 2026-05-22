@@ -1,4 +1,4 @@
-# Site personnel — CV en ligne
+# Site personnel / CV en ligne
 
 Site statique en HTML/CSS/JavaScript pur, sans dépendance ni framework. Le contenu (expériences, formation, compétences, etc.) est entièrement piloté par un fichier JSON, ce qui permet de mettre à jour le contenu sans toucher au code.
 
